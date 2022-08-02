@@ -2,4 +2,4 @@
 
 Hola! ¿que te parece si creas un personaje y listo?
 
-se puede ver deployado en:https://frozen-depths-97473.herokuapp.com/
+se puede ver deployado en:https://dry-escarpment-37931.herokuapp.com/
